@@ -1179,3 +1179,4 @@ I can:
 
 Just tell me what you want next 👌
 
+<img width="2020" height="1620" alt="image" src="https://github.com/user-attachments/assets/773fbcb9-3380-4b52-9065-db5a825b8043" />
